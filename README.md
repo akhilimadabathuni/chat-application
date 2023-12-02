@@ -1,0 +1,4 @@
+# chat-application
+a basic text-based chat application in Python where two users can exchange messages in real-time using the command line. Implement a simple client-server model for message exchange.
+First run the server
+and then run the client to run the chat
